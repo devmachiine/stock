@@ -1,0 +1,3 @@
+generate & save confirm link.
+
+not needed to perist a pending confirmation, we can generate an auth similar to a jwt token.
