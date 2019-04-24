@@ -1,0 +1,5 @@
+event sent to recommendation system
+
+eg:
+    - user has hovered or visited specific item frequently.
+    - user bought certain items together

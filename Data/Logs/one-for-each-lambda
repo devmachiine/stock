@@ -1,0 +1,3 @@
+in case something went wrong.
+
+for normal monitoring/tracking, i'd use what's available on aws and/or a 3rd party like mixpanel.

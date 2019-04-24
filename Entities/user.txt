@@ -1,0 +1,14 @@
+name
+email
+    - value (mark@twain.de)
+    - confirmation status
+telephone-number (only used for supplier entity to further verify)
+id-token(s): platform_token
+list of eula's accepted
+
+The platform_token is the the identity token(s) used to login or create an account.
+
+For example google-mark@gmail.com or facebook-a8f8b22bg.mark52
+
+If its possible to create user account without openid connect/oath with just the email,
+we have to maintain salt & hash of salted password.

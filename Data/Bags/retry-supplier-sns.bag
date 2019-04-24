@@ -1,0 +1,3 @@
+no bag needed for email notifications to suppliers regarding out of stock (or ship requests etc..), they are sent via aws sns function
+
+this is just an example of a retry mechanism that could be used

@@ -1,0 +1,5 @@
+use openid connect / oath token to retrieve an associated customer or supplier.
+
+If no user exists, create one. (customer/supplier)
+
+Return auth-success(id-user) or auth-failure(reason)

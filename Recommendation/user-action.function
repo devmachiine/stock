@@ -1,0 +1,4 @@
+input: metadata about user action(s), history of user, projection of available products
+output: Entities/recommendation.txt
+
+user actions examples: buy item, view item, come back to item, add to cart, etc.

@@ -1,0 +1,7 @@
+at this point I'm starting to wonder if a better structure would be that of entities
+
+with entity:
+    .values or .properties file
+    functions folder:
+        - create/upsert
+        - update ('delete' is also update with removed property)

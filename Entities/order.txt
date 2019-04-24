@@ -1,0 +1,20 @@
+id-product
+id-payment 
+id-customer (available in payment             entity but duplicated here for convenience)
+id-supplier (available in payment and product entity but duplicated here for convenience)
+number of product(s) sent
+status
+    - in cart
+    - customer paid
+    - supplier shipped
+    - supplier paid
+    - return requested
+    - customer returned
+    - supplier recieved
+    - supplier charged
+    - customer refunded
+shipping address
+return address
+tracking-code
+    - supplier sent tracking code
+    - customer returned tracking code

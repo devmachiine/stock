@@ -1,0 +1,5 @@
+id-customer
+
+active list of products (added within last 2 hours to purchase)
+
+inactive list of products : not reserved anymore, 'moved to a customers wish list'

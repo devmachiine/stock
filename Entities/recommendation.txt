@@ -1,0 +1,4 @@
+id-customer
+sorted list of interesting products
+sorted list of lists of interesting products
+sorted list of text messages or other customizations, eg css or page actions.

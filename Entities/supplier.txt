@@ -1,0 +1,17 @@
+user (see user.txt)
+
+status (new account in review, active, suspended)
+
+profile
+    - description
+    - website url
+    - images
+
+banking details
+    - credentials
+    - status (pending, verified)
+
+company/tax details
+    - name
+    - business registration number if applicable
+    - relevant tax number

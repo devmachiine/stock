@@ -1,0 +1,5 @@
+id-customer
+id-supplier
+responsible: customer or supplier (buy or refund)
+payment details
+    - confirmation data eg transaction number, date/time etc

@@ -1,0 +1,9 @@
+id-supplier
+SKU
+total stock available at supplier
+status (work-in-progress,available,discontinued)
+details
+    - description
+    - noun tags: list of words that the product is #lamp #sunglasses
+    - attribute tags: list of properties that product is made of, or related terms #wood #modern #now
+list of product images (s3/cdn links)

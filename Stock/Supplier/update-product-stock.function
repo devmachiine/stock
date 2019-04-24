@@ -1,0 +1,4 @@
+update total number of stock available
+
+function arguments can supply whether update is from:
+    new stock recieved, stock shipped, return recieved from customer, etc.

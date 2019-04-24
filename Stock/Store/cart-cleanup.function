@@ -1,0 +1,1 @@
+a scheduled function runs every hour to move items reserved from abandoned carts to customers wishlist, so that stock items are available for purchase by other users.

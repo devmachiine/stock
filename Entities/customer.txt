@@ -1,0 +1,12 @@
+user (see user.txt)
+
+shipping address(es)
+    - name & unit number
+    - streeet & number
+    - code
+    - city
+    - country
+
+payment method details (0 or more)
+    - credit card
+    - paypal
